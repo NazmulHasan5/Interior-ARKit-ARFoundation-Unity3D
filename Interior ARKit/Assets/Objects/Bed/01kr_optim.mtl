@@ -1,0 +1,42 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.09.2016 04:53:53
+
+newmtl Wood_polish_black
+	Ns 69.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0392 0.0392 0.0392
+	Kd 0.0392 0.0392 0.0392
+	Ks 0.3752 0.3752 0.3752
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Wood_polish
+	Ns 54.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8941 0.8941 0.8941
+	Kd 0.8941 0.8941 0.8941
+	Ks 0.8370 0.8370 0.8370
+	Ke 0.0000 0.0000 0.0000
+
+newmtl fabric
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0180 0.0180 0.0180
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\#3dsMax\#Agape\textures\FabricPlain0038_L_bump.jpg
+	map_Kd D:\#3dsMax\#Agape\textures\FabricPlain0038_L_bump.jpg
+	map_bump D:\#3dsMax\#Agape\textures\FabricPlain0038_L_bump.jpg
+	bump D:\#3dsMax\#Agape\textures\FabricPlain0038_L_bump.jpg
